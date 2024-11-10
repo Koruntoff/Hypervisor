@@ -1,7 +1,7 @@
 # Proxmox Enterprise Home Lab 🖥️
 
 <div align="center">
-  <img src="[https://imgur.com/a/proxmox-nwQtdNs]" alt="Proxmox Web Interface" width="800"/>
+ <img src="https://i.imgur.com/4FrO7Lf.png" alt="proxmox">
   <p><em>Proxmox VE Web Interface - Home Lab Environment</em></p>
 </div>
 
