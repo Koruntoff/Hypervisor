@@ -59,7 +59,7 @@ graph TD
 |---------|-----------|------------|----------|
 | Web Interface | 8006 | 8006 | 10.0.2.15 |
 
-## Technical Implementation 🛠️
+## Technical Implementation 
 
 ### Initial Setup Process
 1. VirtualBox VM Creation
@@ -91,7 +91,7 @@ iface vmbr0 inet static
         dns-nameservers 8.8.8.8 1.1.1.1
 ```
 
-## Future Implementation Plans 📋
+## Future Implementation Plans 
 
 ### Phase 1: Network Infrastructure
 - [ ] pfSense Firewall Deployment
@@ -144,8 +144,3 @@ This documentation will be updated as the project progresses. Future updates wil
 - Performance metrics
 - Security implementations
 
----
-<div align="center">
-  <p><strong>Project Status:</strong> In Progress 🚧</p>
-  <p>Last Updated: November 10, 2024</p>
-</div>
