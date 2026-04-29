@@ -5,10 +5,10 @@
   <p><em>Proxmox VE Web Interface - Home Lab Environment</em></p>
 </div>
 
-## Project Overview 🎯
+## Project Overview 
 Building an enterprise-level home lab environment using Proxmox VE (Virtual Environment) as the hypervisor. This project demonstrates practical implementation of virtualization, network segmentation, and infrastructure management in a controlled environment.
 
-## Infrastructure Details 🌐
+## Infrastructure Details 
 
 ### Base System Configuration
 | Component | Details |
@@ -27,7 +27,7 @@ graph TD
     C --> E[Virtual Machine Network]
 ```
 
-## Implementation Progress ✅
+## Implementation Progress 
 
 ### Completed Steps
 - [x] Base Infrastructure Setup
@@ -107,26 +107,26 @@ iface vmbr0 inet static
 - [ ] Network Monitoring System
 - [ ] Backup Solution
 
-## Skills Demonstrated 🎯
+## Skills Demonstrated 
 - Hypervisor Installation & Configuration
 - Network Infrastructure Design
 - System Administration
 - Troubleshooting
 - Technical Documentation
 
-## Tools & Technologies Used 🔧
+## Tools & Technologies Used 
 - Proxmox VE
 - VirtualBox
 - Linux Networking
 - Bridge Configuration
 - NAT Networking
 
-## Resources 📚
+## Resources 
 - [Proxmox Documentation](https://www.proxmox.com/en/proxmox-ve/documentation)
 - [VirtualBox Manual](https://www.virtualbox.org/manual/)
 - [pfSense Documentation](https://docs.netgate.com/pfsense/en/latest/)
 
-## Environment Verification Commands 🔍
+## Environment Verification Commands 
 ```bash
 # Network Verification
 ip a                     # View network interfaces
@@ -137,7 +137,7 @@ ping 8.8.8.8            # Test internet connectivity
 curl -k https://localhost:8006  # Test web interface access
 ```
 
-## Author Notes 📝
+## Author Notes 
 This documentation will be updated as the project progresses. Future updates will include:
 - Detailed network diagrams
 - Service configurations
